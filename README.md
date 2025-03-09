@@ -14,3 +14,12 @@ wget -O run.sh https://raw.githubusercontent.com/vitacimin00/UBLSubmission/refs/
 6. Paste your "new_bbs_serviceToken" into the terminal and wait until the automation script successfully claims it at 23:00 WIB.
 
 **Run this automation between 22:40-22:50 WIB, as it will automatically claim at 23:00 WIB**
+
+
+# 🚀 **Dukung Saya di Saweria!**  
+
+[![Saweria](https://img.shields.io/badge/Donate-Saweria-orange?style=for-the-badge&logo=coffee)](https://saweria.co/Xanthophyll)  
+
+Bantu saya terus berkarya dengan donasi melalui [Saweria](https://saweria.co/Xanthophyll)! ☕💖  
+
+Terima kasih atas dukunganmu! 🙌  
