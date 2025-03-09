@@ -7,5 +7,10 @@ Automated Bootloader Unlock Application Submission
 
 3. Save your token
 4. Go to https://shell.cloud.google.com/ - Login Google
-5. Paste Code
-   
+5. **Copy this command and run in terminal:**
+```sh
+wget -O run.sh https://raw.githubusercontent.com/vitacimin00/UBLSubmission/refs/heads/main/run.sh && chmod +x run.sh && ./run.sh
+```
+6. Paste your "new_bbs_serviceToken" into the terminal and wait until the automation script successfully claims it at 23:00 WIB.
+
+**Run this automation between 22:40-22:50 WIB, as it will automatically claim at 23:00 WIB**
