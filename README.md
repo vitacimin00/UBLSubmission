@@ -3,7 +3,7 @@ Automated Bootloader Unlock Application Submission
 1. Go to http://new.c.mi.com/global and log in
 2. Go to profile - Right-click/F12 - Inspect Element - Network Tab - Press Ctrl+R - and find the "new_bbs_serviceToken"
 
-![Screenshot_2](https://github.com/user-attachments/assets/fff881fb-39b5-4b44-9d9e-3a593a9b1765)
+![Screenshot_3](https://github.com/user-attachments/assets/be148c61-537e-4cfe-9cb2-d9eb33438ca3)
 
 4. Save your token
 5. Go to https://shell.cloud.google.com/ - Login Google
